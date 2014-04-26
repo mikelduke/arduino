@@ -1,3 +1,17 @@
+/***************************************************
+  Modified from the TrellisTest example included in the 
+  Adafruit Trellis Arduino Library. 
+  
+  https://github.com/adafruit/Adafruit_Trellis_Library
+  
+  This sketch simply adds midi out commands to the button 
+  press events and remaps the buttons to make sense in a 
+  8x8 grid, going from lower left to upper right.
+
+  http://www.mikelduke.com
+  
+***************************************************/
+
 /*************************************************** 
   This is a test example for the Adafruit Trellis w/HT16K33
 
